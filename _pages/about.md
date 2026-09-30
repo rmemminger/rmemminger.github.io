@@ -7,10 +7,10 @@ subtitle:
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p><i>they/them; sie/ihr</i></p>
-    <p><a href='https://angcl.ling.uni-potsdam.de/index.html'>Applied CL Discourse Research Lab Potsdam</a></p>
+    <p><a href='https://angcl.ling.uni-potsdam.de/index.html'>Appl. CL Discourse Research Lab</a></p>
     <p>Department of Linguistics</p>
     <p>University of Potsdam</p>
 
@@ -23,7 +23,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: salse
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
