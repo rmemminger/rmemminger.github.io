@@ -17,13 +17,13 @@ cv:
       - institution: University of Potsdam
         location: Potsdam, Germany
         area: Computational Linguistics
-        studyType: M.Sc.
+        studyType: Master of Science
         start_date: 2022
         end_date: 2025
 
       - institution: University of Regensburg
         location: Regensburg, Germany
         area: General & Comparative Linguistics
-        studyType: B.A.
+        studyType: Bachelor of Arts
         start_date: 2018
         end_date: 2022
