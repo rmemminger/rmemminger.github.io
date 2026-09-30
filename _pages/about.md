@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p><i>they/them; sie/ihr</i></p>
-    <p><a href='https://angcl.ling.uni-potsdam.de/index.html'>Appl. CL Discourse Research Lab</a></p>
+    <p><a href='https://angcl.ling.uni-potsdam.de/index.html'>Applied CL Discourse Research Lab</a></p>
     <p>Department of Linguistics</p>
     <p>University of Potsdam</p>
 
