@@ -5,11 +5,11 @@ permalink: /
 subtitle: 
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p><i>they/them; sie/ihr</i></p>
+    <p>[ˈʁɔnja] -- <i>they/them</i></p>
     <p><a href='https://angcl.ling.uni-potsdam.de/index.html'>Applied CL Discourse Research Lab</a></p>
     <p>Department of Linguistics</p>
     <p>University of Potsdam</p>
@@ -28,8 +28,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## Ronja Memminger
+## **Ronja** Memminger
 
-I am a (computational) linguist and PhD student for computational linguistics at the University of Potsdam under supervision of Prof. Dr. Manfred Stede. For more information about my background, see my [CV](https://rmemminger.github.io/cv/).
+
+Hi, I'm Ronja! I am a PhD student for computational linguistics at the University of Potsdam under supervision of Prof. Dr. Manfred Stede. For more information about my background, see my [CV](https://rmemminger.github.io/cv/).
 
 My work focuses on political discourse and language change. I am particularly interested in how sociopolitical communcation drives language change, how we communicate identity, and coded language. I have also worked on political climate discourse in the past.
