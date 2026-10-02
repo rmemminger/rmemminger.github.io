@@ -9,3 +9,7 @@ scholar_userid: aszaGaoAAAAJ # your Google Scholar ID
 orcid_id: 0009-0004-7386-4317
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+acl: # can be any name here other than the ones already defined in the jekyll-socials plugin
+  logo: /assets/img/acl.png # can be png, svg, jpg
+  title: ACL Anthology
+  url: https://aclanthology.org/people/ronja-memminger/unverified/

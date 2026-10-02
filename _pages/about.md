@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>[ˈʁɔnja] -- <i>they/them</i></p>
-    <p><a href='https://angcl.ling.uni-potsdam.de/index.html'>Applied CL Discourse Research Lab</a></p>
+    <p>[ˈʁɔnja] - <i>they/them</i></p>
+    <p><a href='https://angcl.ling.uni-potsdam.de/index.html'>Applied CL Discourse Lab</a></p>
     <p>Department of Linguistics</p>
     <p>University of Potsdam</p>
 
