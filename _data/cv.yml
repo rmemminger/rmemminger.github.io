@@ -1,6 +1,6 @@
 cv:
   name: Ronja Memminger
-  label: PhD Student
+  label: PhD Student & Research Associate
   email: memminger@uni-potsdam.de
   location: Potsdam, Germany
   image: assets/img/prof_pic.jpg
@@ -11,12 +11,12 @@ cv:
         location: Potsdam, Germany
         area: Computational Linguistics
         studyType: PhD
-        start_date: 2026-03
+        start_date: 2026
         end_date: present
 
       - institution: University of Potsdam
         location: Potsdam, Germany
-        area: Computational Linguistics
+        area: "Cognitive Systems: Language, Learning & Reasoning"
         studyType: Master of Science
         start_date: 2022
         end_date: 2025
@@ -27,3 +27,19 @@ cv:
         studyType: Bachelor of Arts
         start_date: 2018
         end_date: 2022
+
+    Experience:
+      - company: Apoll.on GmbH
+        position: Working student
+        location: Berlin, Germany
+        start_date: 2023
+        end_date: 2025
+        summary: Working student in the data & controlling department of a B2B energy broker firm.
+
+      - company: University of Regensburg
+        position: Student Assistant
+        location: Regensburg, Germany
+        start_date: 2020
+        end_date: 2021
+        summary: Student research assistant at the chair for General & Comparative Linguistics, 
+          working on minority language documentation and historical phonological reconstruction projects.

@@ -31,6 +31,8 @@ latest_posts:
 ## **Ronja** Memminger
 
 
-Hi, I'm Ronja! I am a PhD student for computational linguistics at the University of Potsdam under supervision of Prof. Dr. Manfred Stede. For more information about my background, see my [CV](https://rmemminger.github.io/cv/).
+Hi, I'm Ronja! I am a PhD student for computational linguistics at the University of Potsdam under supervision of Prof.  Manfred Stede. I hold a BA in Linguistics and an MSc in Computational Linguistics. For more information about my background, see my [CV](https://rmemminger.github.io/cv/).
 
-My work focuses on political discourse and language change. I am particularly interested in how sociopolitical communcation drives language change, how we communicate identity, and coded language. I have also worked on political climate discourse in the past.
+My research focuses on **political discourse and language change**. I am particularly interested in how sociopolitical communcation drives language change, how we communicate our identity, and how we use coded language. 
+
+I have also worked on political climate discourse in the past. In my [masters thesis](https://github.com/rmemminger/afd-ccc), I analysed the climate change discourse of a German right-wing political party. This project continues on in the [DEClimate corpus](https://github.com/discourse-lab/DEClimate), collecting climate change related text by German politicians and parties from parliament settings, documents, and social media. The topic is open for student projects, IMs, and theses.
