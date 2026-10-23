@@ -28,9 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## **Ronja** Memminger
-
-
 Hi, I'm Ronja! I am a PhD student for Computational Linguistics at the University of Potsdam under supervision of Prof.  Manfred Stede. I hold a BA in Linguistics and an MSc in Computational Linguistics. For more information about my background, see my [CV](https://rmemminger.github.io/cv/).
 
 My research focuses on **political discourse and language change**. I am particularly interested in how sociopolitical communcation drives language change, how people communicate identity, and how people use coded language. 
